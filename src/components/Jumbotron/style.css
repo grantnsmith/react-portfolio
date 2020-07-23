@@ -1,0 +1,15 @@
+.jumbotron {
+  background-image: url("../../assets/images/guide-photo.JPG");
+  background-size: cover;
+  height: 100%;
+  padding-top: 12%;
+  padding-bottom: 25%;
+}
+
+.jumbotron-sub-title {
+  font-size: 2vw;
+  color: #e0e0e0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+}

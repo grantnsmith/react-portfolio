@@ -1,8 +1,5 @@
 import React, { Component } from "react";
-import { Route, Switch, Navlink, BrowserRouter } from "react-router-dom";
-import Container from "./components/Container";
-import Row from "./components/Row";
-import Col from "./components/Col";
+import { Route, BrowserRouter } from "react-router-dom";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";

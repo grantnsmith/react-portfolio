@@ -3,12 +3,23 @@ import "./style.css";
 
 function Jumbotron() {
   return (
-    <div className="jumbotron jumbotron-fluid">
+    <div className="jumbotron jumbotron-fluid animate__animated animate__fadeInRight">
       <div className="container">
-        <h1 className="display-4">Grant Smith Portfolio</h1>
-        <p className="lead">
-          I'm baby knausgaard scenester mumblecore, pork belly bitters gentrify
-          ethical meggings sartorial lumbersexual fingerstache 3 wolf moon.
+        <h1 className="display-4 main-title animate__animated animate__fadeInLeft">
+          Hello, I'm Grant
+        </h1>
+        <br></br>
+        <p className="lead jumbotron-sub-title animate__animated animate__fadeInLeft">
+          <i className="fas fa-chevron-circle-right"></i> Full-stack web
+          developer
+        </p>
+        <p className="lead jumbotron-sub-title animate__animated animate__fadeInLeft">
+          <i className="fas fa-chevron-circle-right"></i> Experienced IT
+          professional
+        </p>
+        <p className="lead jumbotron-sub-title animate__animated animate__fadeInLeft">
+          <i className="fas fa-chevron-circle-right"></i> Former rock climbing
+          guide
         </p>
       </div>
     </div>
