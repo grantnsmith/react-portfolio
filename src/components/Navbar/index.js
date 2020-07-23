@@ -1,6 +1,8 @@
 import React from "react";
+import "./style.css";
+import { NavLink } from "react-router-dom";
 
-function Navbar(props) {
+function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark">
       <button
@@ -17,19 +19,27 @@ function Navbar(props) {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item gns-nav-align">
-            <a className="nav-link" href="index.html">
+            <NavLink exact to="/" activeClassName="active" className="nav-link">
               About
-            </a>
-          </li>
-          <li className="nav-item active gns-nav-align">
-            <a className="nav-link" href="portfolio.html">
-              Portfolio<span className="sr-only">(current)</span>
-            </a>
+            </NavLink>
           </li>
           <li className="nav-item gns-nav-align">
-            <a className="nav-link" href="contact.html">
+            <NavLink
+              to="/portfolio"
+              activeClassName="active"
+              className="nav-link"
+            >
+              Portfolio
+            </NavLink>
+          </li>
+          <li className="nav-item gns-nav-align">
+            <NavLink
+              to="/contact"
+              activeClassName="active"
+              className="nav-link"
+            >
               Contact
-            </a>
+            </NavLink>
           </li>
         </ul>
       </div>

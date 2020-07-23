@@ -3,7 +3,6 @@ import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
 import Navbar from "../components/Navbar";
-import Jumbotron from "../components/Jumbotron";
 
 function Portfolio() {
   return (

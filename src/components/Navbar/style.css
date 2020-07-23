@@ -1,0 +1,10 @@
+.nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: x-large;
+}
+
+.gns-nav-align {
+  text-align: right;
+}
