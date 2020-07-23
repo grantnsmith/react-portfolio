@@ -1,0 +1,18 @@
+.contacts-title {
+  font-size: 8vw;
+  color: #e0e0e0;
+}
+
+.contact-btn {
+  margin-top: 2%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: large;
+  text-transform: uppercase;
+  background-color: #314455;
+  border: solid #ab6d76;
+}
+
+.contacts {
+  list-style-type: none;
+}

@@ -3,6 +3,7 @@ import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
 import Navbar from "../components/Navbar";
+import ContactCard from "../components/ContactCard";
 
 function Contact() {
   return (
@@ -11,7 +12,7 @@ function Contact() {
       <Container>
         <Row>
           <Col>
-            <p>Contact</p>
+            <ContactCard />
           </Col>
         </Row>
       </Container>

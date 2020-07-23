@@ -5,6 +5,8 @@ import Col from "../components/Col";
 import Navbar from "../components/Navbar";
 import Jumbotron from "../components/Jumbotron";
 import ResumeContainer from "../components/ResumeContainer";
+import ResumeCard from "../components/ResumeCard";
+import ResumeFooter from "../components/ResumeFooter";
 
 function Home() {
   return (
@@ -14,7 +16,10 @@ function Home() {
       <Container>
         <Row>
           <Col>
-            <ResumeContainer></ResumeContainer>
+            <ResumeContainer>
+              <ResumeCard />
+            </ResumeContainer>
+            <ResumeFooter />
           </Col>
         </Row>
       </Container>

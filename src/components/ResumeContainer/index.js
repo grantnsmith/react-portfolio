@@ -1,14 +1,14 @@
 import React from "react";
 import "./style.css";
 
-function ResumeContainer() {
+function ResumeContainer(props) {
   return (
     <div>
-      <h1 class="resume-header">
-        <i class="fas fa-chevron-right resume-arrow"></i> What I've been working
-        on <i class="fas fa-chevron-left resume-arrow"></i>
+      <h1 className="resume-header">
+        <i className="fas fa-chevron-right resume-arrow"></i> What I've been
+        working on <i className="fas fa-chevron-left resume-arrow"></i>
       </h1>
-      <ul class="list-unstyled"></ul>
+      <ul className="list-unstyled">{props.children}</ul>
     </div>
   );
 }
