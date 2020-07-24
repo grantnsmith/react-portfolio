@@ -6,7 +6,7 @@ function ResumeFooter() {
     <Fragment>
       <br />
       <div>
-        <h2>Want to learn more?</h2>
+        <h2 className="footer-header">Want to learn more?</h2>
         <ul class="contacts">
           <li>
             <Link to="/portfolio">
