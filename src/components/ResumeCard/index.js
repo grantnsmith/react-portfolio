@@ -24,7 +24,9 @@ function ResumeCard() {
             React.js, Node.js, Database Theory, MongoDB, MySQL, Handlebars,
             API's, Command Line, Git, Heroku and more. To see more of what I
             have learned and built, check out my{" "}
-            <a href="portfolio.html">Portfolio Page.</a>
+            <a className="resume-link" href="portfolio.html">
+              Portfolio Page.
+            </a>
           </p>
         </div>
       </li>
@@ -71,7 +73,7 @@ function ResumeCard() {
             well as web content creation best practices. In the first year I
             wrote over 100,000 words of content and got our viewership up to
             7,000+ individual users per month. Check out what we built at{" "}
-            <a href="http://www.adventureprotocol.com/">
+            <a className="resume-link" href="http://www.adventureprotocol.com/">
               www.adventureprotocol.com.
             </a>
           </p>

@@ -1,5 +1,5 @@
-a {
-  color: #ab6d76;
+.portfolio-link {
+  color: #e0e0e0;
   font-size: larger;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
@@ -10,4 +10,11 @@ a {
   color: #e0e0e0;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
+}
+
+.portfolio-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  color: #e0e0e0;
+  font-size: larger;
 }

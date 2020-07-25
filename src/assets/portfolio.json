@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "img": "images/uplift.png",
+    "title": "Uplift",
+    "description": "Uplift is a resource for allies of the black community who are looking to support black-owned businesses.",
+    "technology": [
+      "Jquery",
+      "Node.js",
+      "MySQL Database (JawsDB)",
+      "Travis CI",
+      "SociableKit",
+      "Puppeteer",
+      "Passport Authentication",
+      "Handlebars Templating",
+      "Deployed on Heroku"
+    ],
+    "deployed": "https://project-uplift.herokuapp.com/",
+    "github": "hhttps://github.com/grantnsmith/project-2"
+  },
+  {
+    "id": 2,
+    "img": "images/react-employee-directory.png",
+    "title": "React Employee Directory",
+    "description": "An employee directory system built with React and deployed on Heroku. 200 random users are displayed in a table. You can search by the users name or sort in ascending and descending order by name by clicking the 'Name' heading.",
+    "technology": [
+      "React",
+      "ES6",
+      "Heroku Buildpack",
+      "Randomuser.me API",
+      "HTML/CSS",
+      "Bootstrap"
+    ],
+    "deployed": "https://gnsmith-employee-directory.herokuapp.com/",
+    "github": "https://github.com/grantnsmith/employee-directory"
+  },
+  {
+    "id": 3,
+    "img": "images/offline-budget.png",
+    "title": "Offline Budget",
+    "description": "An excercise in adding offline functionality to a pre-built budget tracker application using IndexedDB.",
+    "technology": [
+      "Javascript",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "HTML/CSS",
+      "Mongoose",
+      "IndexedDB",
+      "Deployed on Heroku"
+    ],
+    "deployed": "https://gnsmith-offline-budget-tracker.herokuapp.com/",
+    "github": "https://github.com/grantnsmith/offline-budget-tracker"
+  },
+  {
+    "id": 4,
+    "img": "images/fitness-tracker.png",
+    "title": "Workout Tracker",
+    "description": "An excercise in adding a MongoDB backend to an already existing front-end using Mongoose and Express.",
+    "technology": [
+      "Javascript",
+      "Node.js",
+      "MongoDB",
+      "Express.js",
+      "HTML/CSS",
+      "Mongoose",
+      "Deployed on Heroku"
+    ],
+    "deployed": "https://glacial-earth-45720.herokuapp.com/?id=5efde488de38bf00175b71fe",
+    "github": "https://github.com/grantnsmith/workout-tracker"
+  },
+  {
+    "id": 5,
+    "img": "images/burger-logger.png",
+    "title": "Burger Logger",
+    "description": "An application following the MVC design pattern and utilizing MySQL, Node, Express, Handlebars and an ORM built from scratch.",
+    "technology": [
+      "Javascript",
+      "Node.js",
+      "MySQL",
+      "Jquery",
+      "Express.js",
+      "Homemade ORM",
+      "Handlebars Templating"
+    ],
+    "deployed": "https://fast-hollows-38522.herokuapp.com/",
+    "github": "https://github.com/grantnsmith/burger-logger"
+  },
+  {
+    "id": 6,
+    "img": "images/note-taker.png",
+    "title": "Note Taker",
+    "description": "A note taking application built with an express backend and deployed on Heroku.",
+    "technology": [
+      "Jquery",
+      "Bootstrap",
+      "Font Awesome",
+      "Node.js",
+      "Express.js",
+      "Deployed on Heroku"
+    ],
+    "deployed": "https://fast-hollows-38522.herokuapp.com/",
+    "github": "https://github.com/grantnsmith/burger-logger"
+  },
+  {
+    "id": 7,
+    "img": "images/corona-connoisseur.png",
+    "title": "Corona Connoisseur",
+    "description": "Corona Connoisseur allows users to search for local restaurants that are open right now and that offer either takeout or delivery.",
+    "technology": [
+      "Jquery",
+      "Javascript",
+      "Font Awesome",
+      "HTML & CSS",
+      "Materialize CSS Framework",
+      "Google Places API",
+      "OpenCage Data API"
+    ],
+    "deployed": "https://grantnsmith.github.io/corona-connoisseur/",
+    "github": "https://github.com/grantnsmith/corona-connoisseur"
+  },
+  {
+    "id": 8,
+    "img": "images/workday-calendar.png",
+    "title": "Workday Calendar",
+    "description": "A work-day planner built with jQuery using Bootstrap CSS Framework and moment.js",
+    "technology": [
+      "Jquery",
+      "Javascript",
+      "Bootstrap",
+      "HTML & CSS",
+      "Momement.js"
+    ],
+    "deployed": "https://grantnsmith.github.io/work_day_calendar/",
+    "github": "https://github.com/grantnsmith/work_day_calendar"
+  },
+  {
+    "id": 9,
+    "img": "images/weather-dashboard.png",
+    "title": "Weather Dashboard",
+    "description": "This weather dashboard connects to the OpenWeather API to search a city and get the current weather and the 5-day forecast",
+    "technology": [
+      "Javascript",
+      "Materialize CSS Framework",
+      "OpenWeather API",
+      "Moment.js",
+      "Travs CI",
+      "Google Fonts API"
+    ],
+    "deployed": "https://grantnsmith.github.io/weather_dashboard/",
+    "github": "https://github.com/grantnsmith/weather_dashboard"
+  },
+  {
+    "id": 10,
+    "img": "images/javascript-quiz.png",
+    "title": "Javascript Quiz",
+    "description": "A quiz about Javascript, built with Javascript. I use the Bootstrap CSS framework for the styling.",
+    "technology": ["Javascript", "Bootstrap", "HTML", "CSS"],
+    "deployed": "https://grantnsmith.github.io/code_quiz/",
+    "github": "https://github.com/grantnsmith/code_quiz"
+  }
+]
