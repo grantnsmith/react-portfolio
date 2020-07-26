@@ -5,8 +5,6 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 
 class App extends Component {
-  state = {};
-
   render() {
     return (
       <BrowserRouter>

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": "images/uwash.png",
+    "altTitle": "University of Washington",
+    "title": "University of Washington Full-Stack Web Development Bootcamp",
+    "subtitle": "Student - February 2020 to August 2020",
+    "body": "I learned front and backend technologies and am a proficient full stack developer. Topics covered included HTML5, CSS3, Javascript, jQuery, Bootstrap and other CSS Frameworks, Express, React, Node.js, MongoDB, MySQL, Handlebars, API's, Command Line, Git, Heroku, and more. To see more of what I have learned and built, check out my Portfolio Page."
+  },
+  {
+    "id": 2,
+    "img": "images/oracle.jpg",
+    "altTitle": "Oracle Cloud Infrastructure",
+    "title": "Oracle Cloud Infrastructure",
+    "subtitle": "System Administrator - since January 2019",
+    "body": "As part of Oracle Cloud Infrastructure I provide in person and online support for software and hardware systems in a large enterprise environment. I troubleshoot issues and implement long term solutions including updates, new processes, and user education. I work with Yubikeys, conference room A/V troubleshooting, Atlassian tools (Confluence, Jira, Bitbucket), Cisco AnyConnect, multiple VPN configurations, Zoom, PagerDuty, McAfee AV, and am a Slack Admin."
+  },
+  {
+    "id": 3,
+    "img": "images/AdventureProtocolLogo.jpg",
+    "altTitle": "Adventure Protocol",
+    "title": "Adventure Protocol",
+    "subtitle": "Co-founder and Content Manager - since 2017",
+    "body": "I developed Adventure Protocol from the ground up with my brother as a way to share our passion of climbing and the outdoors. I managed content contributors and monetized the website through affiliate marketing. I taught myself SEO and Wordpress development skills as well as web content creation best practices. In the first year I wrote over 100,000 words of content and got our viewership up to 7,000+ individual users per month. Check out what we built at www.adventureprotocol.com."
+  },
+  {
+    "id": 4,
+    "img": "images/santacatalina.png",
+    "altTitle": "Santa Catalina School",
+    "title": "Santa Catalina School",
+    "subtitle": "Technology Support Coordinator 2014 -2016",
+    "body": "Managed the installation, user education, and troubleshooting of desktops, printers, copiers, network equipment, projectors, and peripherals for a school of 500+ and 125+ teachers and staff. I supported systems including Windows XP - 10, Mac OSX, TCP/IP systems, MS Office Suite, iOS, Cisco Meraki, Acronis True Image, Parallels, Faronics software, Google Apps for Education, Google Admin, Spiceworks, Active Directory, and inSSIDer."
+  },
+  {
+    "id": 5,
+    "img": "images/applelogo.png",
+    "altTitle": "Apple Inc.",
+    "title": "Apple Inc.",
+    "subtitle": "Genius 2012 -2014",
+    "body": " I used troubleshooting skills to quickly resolve client technical issues and educated customers on products while maintaining composure in a fast-paced environment. I also performed hardware and software repairs on iPhone, iPad, and Mac computers. Certifications: Apple Certified Mac Technician 2013; Apple Certified Mobile Device Technician 2012"
+  }
+]

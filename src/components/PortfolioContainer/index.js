@@ -14,8 +14,8 @@ function PortfolioContainer(props) {
           Handlebars, using API's, Command Line, Git, Heroku and more.
         </p>
         <p className="portfolio-intro">
-          Below are some of the projects I am most proud of. This site itself is
-          a single-page application I built with React.{" "}
+          Below are some of the projects I built during the bootcamp. This site
+          itself is a single-page application I built with React.{" "}
           <a
             className="portfolio-header-link"
             href="https://github.com/grantnsmith/react-portfolio"

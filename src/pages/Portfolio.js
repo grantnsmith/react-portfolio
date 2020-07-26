@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
@@ -8,6 +8,9 @@ import PortfolioCard from "../components/PortfolioCard";
 import portfolio from "../assets/portfolio.json";
 
 function Portfolio() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  });
   return (
     <div>
       <Navbar />
