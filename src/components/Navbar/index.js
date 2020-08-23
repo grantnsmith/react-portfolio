@@ -20,7 +20,7 @@ function Navbar() {
         <ul className="navbar-nav ml-auto">
           <li className="nav-item gns-nav-align">
             <NavLink exact to="/" activeClassName="active" className="nav-link">
-              About
+              About Me
             </NavLink>
           </li>
           <li className="nav-item gns-nav-align">
@@ -29,7 +29,7 @@ function Navbar() {
               activeClassName="active"
               className="nav-link"
             >
-              Portfolio
+              Projects
             </NavLink>
           </li>
           <li className="nav-item gns-nav-align">
@@ -38,7 +38,7 @@ function Navbar() {
               activeClassName="active"
               className="nav-link"
             >
-              Contact
+              Get in Touch
             </NavLink>
           </li>
         </ul>

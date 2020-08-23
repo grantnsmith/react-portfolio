@@ -8,3 +8,38 @@
 .resume-arrow {
   color: #ab6d76;
 }
+
+.resume-extra {
+  color: #e0e0e0;
+  font-size: larger;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.resume-text-body {
+  color: #e0e0e0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 200;
+  font-size: larger;
+}
+
+.resume-block {
+  margin-top: 10vh;
+}
+
+.resume-title {
+  font-size: x-large;
+}
+
+.resume-subtitle {
+  color: #ab6d76;
+  font-size: larger;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.resume-link {
+  color: #ab6d76;
+}

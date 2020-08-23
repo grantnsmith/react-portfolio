@@ -27,7 +27,7 @@ function PortfolioCard(props) {
           rel="noopener noreferrer"
         >
           <i className="far fa-arrow-alt-circle-right"></i> Check out the
-          website.
+          website
         </a>
         <br />
         <a
@@ -37,7 +37,7 @@ function PortfolioCard(props) {
           rel="noopener noreferrer"
         >
           <i className="far fa-arrow-alt-circle-right"></i> Check out the code
-          on Github.
+          on Github
         </a>
       </div>
     </li>
