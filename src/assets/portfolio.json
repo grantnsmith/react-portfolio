@@ -39,6 +39,23 @@
   },
   {
     "id": 3,
+    "img": "images/corona-connoisseur.png",
+    "title": "Corona Connoisseur",
+    "description": "Corona Connoisseur allows users to search for local restaurants that are open right now and that offer either takeout or delivery.",
+    "technology": [
+      "Jquery",
+      "Javascript",
+      "Font Awesome",
+      "HTML & CSS",
+      "Materialize CSS Framework",
+      "Google Places API",
+      "OpenCage Data API"
+    ],
+    "deployed": "https://grantnsmith.github.io/corona-connoisseur/",
+    "github": "https://github.com/grantnsmith/corona-connoisseur"
+  },
+  {
+    "id": 4,
     "img": "images/react-employee-directory.png",
     "title": "React Employee Directory",
     "description": "An employee directory system built with React and deployed on Heroku. 200 random users are displayed in a table. You can search by the users name or sort in ascending and descending order by name by clicking the 'Name' heading.",
@@ -54,7 +71,7 @@
     "github": "https://github.com/grantnsmith/employee-directory"
   },
   {
-    "id": 4,
+    "id": 5,
     "img": "images/offline-budget.png",
     "title": "Offline Budget",
     "description": "An excercise in adding offline functionality to a pre-built budget tracker application using IndexedDB.",
@@ -72,7 +89,7 @@
     "github": "https://github.com/grantnsmith/offline-budget-tracker"
   },
   {
-    "id": 5,
+    "id": 6,
     "img": "images/fitness-tracker.png",
     "title": "Workout Tracker",
     "description": "An excercise in adding a MongoDB backend to an already existing front-end using Mongoose and Express.",
@@ -89,7 +106,7 @@
     "github": "https://github.com/grantnsmith/workout-tracker"
   },
   {
-    "id": 6,
+    "id": 7,
     "img": "images/burger-logger.png",
     "title": "Burger Logger",
     "description": "An application following the MVC design pattern and utilizing MySQL, Node, Express, Handlebars and an ORM built from scratch.",
@@ -106,7 +123,7 @@
     "github": "https://github.com/grantnsmith/burger-logger"
   },
   {
-    "id": 7,
+    "id": 8,
     "img": "images/note-taker.png",
     "title": "Note Taker",
     "description": "A note taking application built with an express backend and deployed on Heroku.",
@@ -120,23 +137,6 @@
     ],
     "deployed": "https://fast-hollows-38522.herokuapp.com/",
     "github": "https://github.com/grantnsmith/burger-logger"
-  },
-  {
-    "id": 8,
-    "img": "images/corona-connoisseur.png",
-    "title": "Corona Connoisseur",
-    "description": "Corona Connoisseur allows users to search for local restaurants that are open right now and that offer either takeout or delivery.",
-    "technology": [
-      "Jquery",
-      "Javascript",
-      "Font Awesome",
-      "HTML & CSS",
-      "Materialize CSS Framework",
-      "Google Places API",
-      "OpenCage Data API"
-    ],
-    "deployed": "https://grantnsmith.github.io/corona-connoisseur/",
-    "github": "https://github.com/grantnsmith/corona-connoisseur"
   },
   {
     "id": 9,

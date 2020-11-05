@@ -8,10 +8,11 @@ function PortfolioContainer(props) {
       <div>
         <p className="portfolio-intro">
           In 2020, I took a 6-month full-stack web development course through
-          the University of Washington. I'm proficient in front and backend
-          technologies including: HTML5, CSS3, ES5+, jQuery, Bootstrap and other
-          CSS Frameworks, Express, ReactJS, Node.js, MongoDB, MySQL, Handlebars,
-          third-party API's, command line, Git version control, Heroku
+          the University of Washington and completed the course with an A+
+          average. I'm proficient in front and backend technologies including:
+          Javascript, React.js, HTML, CSS, jQuery, Bootstrap, Materialize, UI
+          Kit, Express.js, Node.js, MongoDB, Mongoose, MySQL, Sequelize,
+          Handlebars, ESLint, Travis CI, third-party API's, bash, Git, Heroku
           deployment and more.
         </p>
         <p className="portfolio-intro">

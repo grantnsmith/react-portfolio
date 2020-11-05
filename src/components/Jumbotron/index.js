@@ -14,8 +14,8 @@ function Jumbotron() {
           developer
         </p>
         <p className="lead jumbotron-sub-title animate__animated animate__fadeInLeft">
-          <i className="fas fa-chevron-circle-right"></i> Experienced IT
-          professional
+          <i className="fas fa-chevron-circle-right"></i> Senior IT Support
+          Engineer
         </p>
         <p className="lead jumbotron-sub-title animate__animated animate__fadeInLeft">
           <i className="fas fa-chevron-circle-right"></i> Former rock climbing

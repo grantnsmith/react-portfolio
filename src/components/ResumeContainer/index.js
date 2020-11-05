@@ -19,18 +19,17 @@ function ResumeContainer(props) {
             <h5 className="mt-0 mb-1 resume-title">
               UW Full-Stack Web Development Bootcamp
             </h5>
-            <p className="resume-subtitle">
-              Student - February 2020 to August 2020
-            </p>
+            <p className="resume-subtitle">February 2020 to August 2020</p>
             <p className="resume-text-body">
-              I learned front and backend technologies and am a proficient full
-              stack developer. Topics covered included HTML5, CSS3, Javascript,
-              jQuery, Bootstrap and other CSS Frameworks, Express, React,
-              Node.js, MongoDB, MySQL, Handlebars, API's, Command Line, Git,
-              Heroku, and more. To see more of what I have learned and built,
-              check out my{" "}
+              I learned front and backend technologies and became a proficient
+              full stack developer. I completed the bootcamp with an A+ average.
+              Topics covered included Javascript, React.js, HTML, CSS, jQuery,
+              Bootstrap, Materialize, UI Kit, ESLint, Express.js, Node.js,
+              MongoDB, Mongoose MySQL, Sequelize, Handlebars, Jest, Travis CI,
+              bash, Git, Heroku, and more. To see more of what I learned and
+              built, check out my{" "}
               <a className="resume-link" href="/portfolio">
-                Portfolio Page.
+                Projects Page.
               </a>
             </p>
           </div>
@@ -46,7 +45,7 @@ function ResumeContainer(props) {
               Oracle Cloud Infrastructure
             </h5>
             <p className="resume-subtitle">
-              System Administrator - since January 2019
+              Senior IT Support Engineer - since January 2019
             </p>
             <p className="resume-text-body">
               As part of Oracle Cloud Infrastructure I provide in person and
@@ -68,25 +67,23 @@ function ResumeContainer(props) {
           />
           <div className="media-body resume-body">
             <h5 className="mt-0 mb-1 resume-title">Adventure Protocol</h5>
-            <p className="resume-subtitle">
-              Co-founder and Content Manager - since 2017
-            </p>
+            <p className="resume-subtitle">Website Developer - since 2017</p>
             <p className="resume-text-body">
-              I developed Adventure Protocol from the ground up with my brother
-              as a way to share our passion of climbing and the outdoors. I
-              manage content contributors and monetize the website through
-              affiliate marketing. I taught myself SEO and Wordpress development
-              skills as well as web content creation best practices. In the
-              first year I wrote over 100,000 words of content and got our
-              viewership up to 7,000+ individual users per month. Check out what
-              we built at{" "}
+              My brother and I developed Adventure Protocol from the ground up
+              as a way to share our passion of the outdoors. I manage content
+              contributors and monetize the website through affiliate marketing
+              (hitting a 2.5% conversion rate in 2019). I taught myself SEO,
+              Wordpress development, and web content best practices. I have
+              written over 100,000 words and achieved a viewership of 7,000+
+              individual users per month with 225,500+ views all time. Check out
+              what we built at{" "}
               <a
                 className="resume-link"
                 target="_blank"
                 rel="noopener noreferrer"
                 href="http://www.adventureprotocol.com/"
               >
-                www.adventureprotocol.com.
+                Adventure Protocol.
               </a>
             </p>
           </div>
@@ -146,7 +143,8 @@ function ResumeContainer(props) {
           <br />
           <p class="resume-extra">
             <i class="fas fa-chevron-circle-right resume-arrow"></i> Bachelors
-            of Arts in Social Science, Azusa Pacific University - 2010
+            of Arts with Honors in Social Science (3.8 GPA), Azusa Pacific
+            University - 2010
           </p>
           <p class="resume-extra">
             <i class="fas fa-chevron-circle-right resume-arrow"></i> Teacher at
