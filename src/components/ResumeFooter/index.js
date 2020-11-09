@@ -1,6 +1,5 @@
 import React, { Fragment } from "react";
 import { Link } from "react-router-dom";
-import resumePDF from "../../assets/documents/Resume.pdf";
 
 function ResumeFooter() {
   return (
@@ -35,12 +34,11 @@ function ResumeFooter() {
               <i class="fab fa-linkedin" /> Connect with me on LinkedIn
             </a>{" "}
             <a
-              href={resumePDF}
-              target="_blank"
+              href="https://docs.google.com/document/d/1ZjpmqG4uh0Qx0GzFpxUECunh8KtjUxE6qSWWlIjtmMQ/export?format=pdf"
               rel="noopener noreferrer"
               class="btn btn-secondary contact-btn"
             >
-              <i class="far fa-file-alt"></i> Formal Resume
+              <i class="far fa-file-alt"></i> Download Resume (PDF)
             </a>{" "}
             <Link to="/contact">
               {" "}

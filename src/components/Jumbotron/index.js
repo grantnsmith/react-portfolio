@@ -10,7 +10,7 @@ function Jumbotron() {
         </h1>
         <br></br>
         <p className="lead jumbotron-sub-title animate__animated animate__fadeInLeft">
-          <i className="fas fa-chevron-circle-right"></i> Full-stack web
+          <i className="fas fa-chevron-circle-right"></i> Front-end web
           developer
         </p>
         <p className="lead jumbotron-sub-title animate__animated animate__fadeInLeft">

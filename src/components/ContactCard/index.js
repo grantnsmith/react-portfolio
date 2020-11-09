@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-import resumePDF from "../../assets/documents/Resume.pdf";
 
 function ContactCard() {
   return (
@@ -20,12 +19,21 @@ function ContactCard() {
           </li>
           <li>
             <a
-              href={resumePDF}
+              href="https://www.linkedin.com/in/grantnsmith/"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-secondary contact-btn  animate__animated animate__fadeInRight"
             >
-              <i className="far fa-file-alt"></i> My Resume
+              <i className="fab fa-linkedin"></i> LinkedIn
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://docs.google.com/document/d/1ZjpmqG4uh0Qx0GzFpxUECunh8KtjUxE6qSWWlIjtmMQ/export?format=pdf"
+              rel="noopener noreferrer"
+              className="btn btn-secondary contact-btn  animate__animated animate__fadeInRight"
+            >
+              <i className="far fa-file-alt"></i> Resume (PDF)
             </a>
           </li>
           <li>
@@ -36,16 +44,6 @@ function ContactCard() {
               className="btn btn-secondary contact-btn animate__animated animate__fadeInRight"
             >
               <i className="fab fa-github-square"></i> GitHub
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.linkedin.com/in/grantnsmith/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn btn-secondary contact-btn  animate__animated animate__fadeInRight"
-            >
-              <i className="fab fa-linkedin"></i> LinkedIn
             </a>
           </li>
           <li>
