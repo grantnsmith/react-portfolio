@@ -135,8 +135,8 @@
       "Express.js",
       "Deployed on Heroku"
     ],
-    "deployed": "https://fast-hollows-38522.herokuapp.com/",
-    "github": "https://github.com/grantnsmith/burger-logger"
+    "deployed": "https://gnsmith-note-taker.herokuapp.com/",
+    "github": "https://github.com/grantnsmith/express-note-taker"
   },
   {
     "id": 9,
