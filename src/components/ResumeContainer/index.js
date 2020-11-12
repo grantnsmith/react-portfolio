@@ -21,13 +21,13 @@ function ResumeContainer(props) {
             </h5>
             <p className="resume-subtitle">February 2020 to August 2020</p>
             <p className="resume-text-body">
-              I learned front and backend technologies and became a proficient
-              full stack developer. I completed the bootcamp with an A+ average.
-              Topics covered included Javascript, React.js, HTML, CSS, jQuery,
-              Bootstrap, Materialize, UI Kit, ESLint, Express.js, Node.js,
-              MongoDB, Mongoose MySQL, Sequelize, Handlebars, Jest, Travis CI,
-              bash, Git, Heroku, and more. To see more of what I learned and
-              built, check out my{" "}
+              I learned front and backend web development and became a
+              proficient full stack developer. I completed the bootcamp with an
+              A+ average. Topics covered included Javascript, React.js, HTML,
+              CSS, jQuery, Bootstrap, Materialize, UI Kit, ESLint, Express.js,
+              Node.js, MongoDB, Mongoose MySQL, Sequelize, Handlebars, Jest,
+              Travis CI, bash, Git, Heroku, and more. To see more of what I
+              learned and built, check out my{" "}
               <a className="resume-link" href="/portfolio">
                 Projects Page.
               </a>
