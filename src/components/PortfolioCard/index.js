@@ -6,7 +6,7 @@ function PortfolioCard(props) {
     <li className="media resume-block ">
       <img
         src={props.img}
-        className="align-self-start mr-3 rounded "
+        className="align-self-start mr-3 rounded img-fluid"
         alt={props.title}
       />
       <div className="media-body portfolio-body">

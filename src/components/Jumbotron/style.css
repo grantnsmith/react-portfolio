@@ -4,10 +4,11 @@
   height: 100%;
   padding-top: 12%;
   padding-bottom: 25%;
+  background-size: cover;
 }
 
 .jumbotron-sub-title {
-  font-size: 2vw;
+  font-size: 3vh;
   color: #e0e0e0;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;

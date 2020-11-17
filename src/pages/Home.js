@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "../components/Container";
-import Row from "../components/Row";
-import Col from "../components/Col";
+// import Row from "../components/Row";
+// import Col from "../components/Col";
 import Navbar from "../components/Navbar";
 import Jumbotron from "../components/Jumbotron";
 import ResumeContainer from "../components/ResumeContainer";
@@ -13,12 +13,8 @@ function Home() {
       <Navbar />
       <Jumbotron />
       <Container>
-        <Row>
-          <Col>
-            <ResumeContainer />
-            <ResumeFooter />
-          </Col>
-        </Row>
+        <ResumeContainer />
+        <ResumeFooter />
       </Container>
     </div>
   );

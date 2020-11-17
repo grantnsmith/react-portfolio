@@ -9,6 +9,14 @@
   color: #ab6d76;
 }
 
+.resume-image {
+  margin-top: 2vh;
+}
+
+.resume-body {
+  margin-top: 2vh;
+}
+
 .resume-extra {
   color: #e0e0e0;
   font-size: larger;
@@ -22,10 +30,6 @@
   font-family: "Montserrat", sans-serif;
   font-weight: 200;
   font-size: larger;
-}
-
-.resume-block {
-  margin-top: 10vh;
 }
 
 .resume-title {
@@ -43,3 +47,10 @@
 .resume-link {
   color: #ab6d76;
 }
+
+.row {
+  margin-top: 5vh;
+}
+
+/* @media (max-width: 576px) {
+} */

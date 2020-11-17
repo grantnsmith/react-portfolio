@@ -12,7 +12,6 @@ function ResumeFooter() {
             <Link to="/portfolio">
               <button class="btn btn-secondary contact-btn">
                 <i class="fas fa-chevron-circle-right" /> Check out my Projects
-                Portfolio
               </button>
             </Link>{" "}
             <a
@@ -31,7 +30,7 @@ function ResumeFooter() {
               rel="noopener noreferrer"
               class="btn btn-secondary contact-btn"
             >
-              <i class="fab fa-linkedin" /> Connect with me on LinkedIn
+              <i class="fab fa-linkedin" /> Connect on LinkedIn
             </a>{" "}
             <a
               href="https://docs.google.com/document/d/1ZjpmqG4uh0Qx0GzFpxUECunh8KtjUxE6qSWWlIjtmMQ/export?format=pdf"
