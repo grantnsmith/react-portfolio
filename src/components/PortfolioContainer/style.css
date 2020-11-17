@@ -1,6 +1,6 @@
 .portfolio-header {
   margin-top: 3vh;
-  font-size: 8vw;
+  font-size: 8vh;
   margin-bottom: 3vh;
   text-align: center;
 }
@@ -8,10 +8,10 @@
 .portfolio-intro {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
-  color: #e0e0e0;
+  color: #000000;
   font-size: larger;
 }
 
 .portfolio-header-link {
-  color: #ab6d76;
+  color: #ab2537fa;
 }

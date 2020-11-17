@@ -4,10 +4,8 @@ import "./style.css";
 function ResumeContainer(props) {
   return (
     <div className="container">
-      <h1 className="resume-header">
-        <i className="fas fa-chevron-right resume-arrow"></i> What I've been
-        working on <i className="fas fa-chevron-left resume-arrow"></i>
-      </h1>
+      <h1 className="resume-header">What I've been working on</h1>
+      <hr></hr>
       <div>
         <div className="row">
           <div className="col-auto col- mx-auto">

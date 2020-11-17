@@ -1,16 +1,17 @@
 .resume-header {
   margin-top: 5vh;
-  font-size: xx-large;
+  font-size: 4vh;
   margin-bottom: 5vh;
   text-align: center;
 }
 
 .resume-arrow {
-  color: #ab6d76;
+  color: #ab2537fa;
 }
 
 .resume-image {
   margin-top: 2vh;
+  border: 1px solid #000000;
 }
 
 .resume-body {
@@ -18,7 +19,7 @@
 }
 
 .resume-extra {
-  color: #e0e0e0;
+  color: #000000;
   font-size: larger;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
@@ -26,7 +27,7 @@
 }
 
 .resume-text-body {
-  color: #e0e0e0;
+  color: #000000;
   font-family: "Montserrat", sans-serif;
   font-weight: 200;
   font-size: larger;
@@ -37,7 +38,7 @@
 }
 
 .resume-subtitle {
-  color: #ab6d76;
+  color: #ab2537fa;
   font-size: larger;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
@@ -45,12 +46,9 @@
 }
 
 .resume-link {
-  color: #ab6d76;
+  color: #ab2537fa;
 }
 
 .row {
   margin-top: 5vh;
 }
-
-/* @media (max-width: 576px) {
-} */

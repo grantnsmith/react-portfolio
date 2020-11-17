@@ -7,6 +7,10 @@
   background-size: cover;
 }
 
+.jumbotron-title {
+  color: #e0e0e0;
+}
+
 .jumbotron-sub-title {
   font-size: 3vh;
   color: #e0e0e0;

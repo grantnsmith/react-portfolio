@@ -3,9 +3,9 @@ import "./style.css";
 
 function Jumbotron() {
   return (
-    <div className="jumbotron animate__animated animate__fadeInRight">
+    <div className="jumbotron jumbotron-fluid animate__animated animate__fadeInRight">
       <div className="container">
-        <h1 className="display-4 main-title animate__animated animate__fadeInLeft">
+        <h1 className="display-4 main-title animate__animated animate__fadeInLeft jumbotron-title">
           Hello, I'm Grant
         </h1>
         <br></br>
