@@ -1,9 +1,8 @@
-# React Single-Page Application Portfolio
+# Grant Smith's React Single-Page Application Portfolio
 
 ## Description 
 
-I originally built my portfolio site using basic HTML/CSS and vanilla Javascript. For this project I remade it using React. It uses hooks, dynamic components, and  Boostrap as its CSS Framework. 
-
+I originally built my portfolio site using basic HTML/CSS and vanilla Javascript, but remade it as a Single-page application using React. It uses hooks, dynamic components, and  Boostrap as its CSS Framework.
 
 ## Table of Contents
 
@@ -28,7 +27,8 @@ I originally built my portfolio site using basic HTML/CSS and vanilla Javascript
 
 ## Future Direction 
 
-I am in the process of connecting this application with my custom domain (grantnsmith.com)
+* Add a contact form
+* Create a blog section
 
 ## Questions 
 
