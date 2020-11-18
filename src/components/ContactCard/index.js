@@ -3,8 +3,8 @@ import "./style.css";
 
 function ContactCard() {
   return (
-    <div className="container">
-      <div className="row">
+    <div className="container contact-container">
+      <div className="row contact-row">
         <div className="col-auto mx-auto">
           <h1 className="contacts-title">My Details</h1>
         </div>

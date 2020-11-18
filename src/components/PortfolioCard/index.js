@@ -32,7 +32,7 @@ function PortfolioCard(props) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="far fa-arrow-alt-circle-right"></i> The application
+              <i className="fas fa-chevron-circle-right"></i> The application
             </a>
             <br />
             <a
@@ -41,7 +41,7 @@ function PortfolioCard(props) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="far fa-arrow-alt-circle-right"></i> Github Repo
+              <i className="fab fa-github-square"></i> Project Repo
             </a>
           </div>
         </div>
